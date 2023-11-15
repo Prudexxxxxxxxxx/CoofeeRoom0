@@ -262,6 +262,10 @@ body._touch .menu__link {
       display: flex;
       text-align: center;
     }
+        .page{
+         
+         overflow: hidden;
+    }
     .menu__icon {
         z-index: 5;
         display: block;
